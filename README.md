@@ -2,8 +2,7 @@
 
 ## 📌 Overview
 
-**JobApp** is a Spring Boot-based backend application designed to manage job-related operations such as creating, updating, and retrieving job listings. This project demonstrates REST API development, clean architecture, and containe
-**New!Click to edit**rization using Docker.
+**JobApp** is a Spring Boot-based backend application designed to manage job-related operations such as creating, updating, and retrieving job listings. This project demonstrates REST API development, clean architecture.
 
 ---
 
@@ -26,7 +25,6 @@ jobApp/
 │   │   ├── resources/
 │── target/
 │── pom.xml
-│── Dockerfile
 │── README.md
 ```
 
