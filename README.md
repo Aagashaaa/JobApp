@@ -1,8 +1,8 @@
-# JobApp - Spring Boot Application
+# Job Listing REST API - Spring Boot Application
 
 ## 📌 Overview
 
-**JobApp** is a Spring Boot-based backend application designed to manage job-related operations such as creating, updating, and retrieving job listings. This project demonstrates REST API development, clean architecture.
+**Job Listing REST API** is a Spring Boot-based backend application designed to manage job-related operations such as creating, updating, and retrieving job listings. This project demonstrates REST API development, clean architecture.
 
 ---
 
